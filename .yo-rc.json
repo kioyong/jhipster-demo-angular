@@ -1,0 +1,40 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.hkia.wow"
+    },
+    "jhipsterVersion": "6.9.1",
+    "applicationType": "monolith",
+    "baseName": "wowportal",
+    "packageName": "com.hkia.wow",
+    "packageFolder": "com/hkia/wow",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "mongodb",
+    "devDatabaseType": "mongodb",
+    "prodDatabaseType": "mongodb",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "NjA3ODU2OTcwNThkM2Y2MmUzMmUwYjAxOTU4M2I0ZDhkZjllY2UzOGUwNjY4MGExNTRlZDE5NTA1YjE5YWU3OGUzZmM0MjRmZTU0ZTAwMzc2NDk5Mzk1NTM1MjM5YmExZmExYjAxYjI4NDc4ZTM2N2JiODdkNTY0NDk2ZjMzZmU=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "cosmo",
+    "clientThemeVariant": "primary",
+    "creationTimestamp": 1591695085014,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "blueprints": []
+  }
+}
